@@ -1,0 +1,3 @@
+A) El sistema de control de versiones Git fue inventado por Linus Torvalds, el co-creador de Linux. Torvalds creó Git en 2005 para ayudar a administrar el desarrollo del kernel de Linux
+B)Pertenece a Microsoft quien lo adquirio para aumentar su uso empresarial y llevar sus herramientas y servicios de desarollo a nuevas audiencias
+C)Si con GitHub Desktop o a través de GitHub.com, aunque puede interactuar con Git a través de GitHub.com, su experiencia puede ser limitada. Muchas herramientas locales pueden darle acceso a las funcionalidades de Git más utilizadas, aunque solo la terminal le dará acceso a todas.
